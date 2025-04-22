@@ -22,7 +22,7 @@ A tiny Python script that shows the most recently played track on KEXP.
 
 3. Run the script:
 
-       python now_playing.py
+       python3 now_playing.py
 
 ## ⚙️ Requirements
 
